@@ -1,2 +1,2 @@
 # IBM_Cloud
-Repositorio para los proyectos alojados en IBM Cloud entre ellos los recursos de IBM Data Science Professional de Coursera
+Repository for projects hosted on the IBM Cloud including IBM Data Science Professional resources from Coursera
